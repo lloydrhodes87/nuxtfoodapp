@@ -37,7 +37,7 @@ export default {
   // },
   props: {
     dataSource: {
-      type: [Array | Object],
+      type: [Array | Object | String],
     },
   },
   methods: {
